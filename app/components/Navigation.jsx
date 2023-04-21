@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-function Navigator() {
+function Navigation() {
   return (
     <ul>
       <li>
