@@ -15,3 +15,5 @@ function Navigation() {
     </ul>
   );
 }
+
+export default Navigation;
